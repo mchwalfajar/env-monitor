@@ -1,8 +1,8 @@
 # Environment Monitoring using Grafana
 
-Data sensor get from Antares IoT Platform API
+Get sensor data from Antares IoT Platform API
 
-# RUN
+RUN
 'npm start'
 
 PREREQUISITES:
